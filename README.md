@@ -55,7 +55,7 @@ in the same folder as the code.
 
 ## ▶️ How to Run
 
-1. Clone the repository:git clone https://github.com/SARTHAKJINDAL1/Fake-News-Detection-ML.git
+1. Clone the repository:git clone https://github.com/sagan25bai10057-maker/Fake-News-Detection-ML.git
 2. Install dependencies: pip install pandas scikit-learn
 3. Run the program: python main.py
 ---
